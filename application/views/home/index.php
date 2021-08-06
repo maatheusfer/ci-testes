@@ -1,4 +1,5 @@
 
+<h1>HOME PAGE</h1>
 <?php $this->load->view('layout/sidebar') ?>
 
     
